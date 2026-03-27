@@ -43,7 +43,7 @@ No single area outweighs another. Strength in one area doesn't compensate for a 
 
 The ladder is a **conversation tool, not a checklist**. The bullet points under each competency are illustrative examples of behaviours — not an exhaustive list of requirements. Promotion is based on consistently demonstrating the core focus of the next level across all six areas, typically over a period of at least six months.
 
-See [`faq.md`](./faq.md) for answers to common questions about promotions, terminal levels, specialization, and how the ladder is maintained.
+See [`faq.md`](./software-developer/faq.md) for answers to common questions about promotions, terminal levels, specialization, and how the ladder is maintained.
 
 ---
 
