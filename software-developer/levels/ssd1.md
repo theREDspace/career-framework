@@ -14,7 +14,7 @@ competencies:
       - Possesses very deep knowledge of the current tech stack while maintaining the "technical fluency" to lead diverse projects across the company
       - Designs systems and solutions with advanced resiliency patterns (e.g., circuit breakers, retries, and graceful degradation) to ensure service continuity during partial outages
       - Acts as a primary unblocker for complex technical problems that cross multiple project boundaries
-      - Understands performance and infrastructure (how code compiles, memory footprints, performance limiations, etc.) to ensure long-term system health
+      - Understands performance and infrastructure (how code compiles, memory footprints, performance limitations, etc.) to ensure long-term system health
       - Provides the stability needed to "right the ship" or build a new foundation
       - Acts as a high-integrity reviewer for AI-assisted contributions. Ensures the team doesn't sacrifice long-term maintainability for short-term velocity by rigorously verifying that agentic implementations adhere to team architectural patterns and security standards.
   solution:
