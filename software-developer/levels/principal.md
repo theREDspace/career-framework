@@ -4,6 +4,7 @@ position: Principal Software Developer
 tier: principal
 theme: Strategizes
 description: Setting company-wide technical strategy
+leadership_scope: Defines how the company itself ramps into unfamiliar technology, setting the approach and the bar, rather than personally leading each project
 order: 6
 competencies:
   technology:

@@ -4,6 +4,7 @@ position: Senior Software Developer
 tier: ssd
 theme: Leads
 description: Leading through technical mastery and mentorship
+leadership_scope: Capable of leading a project in their most comfortable technology, but not required to. A strong and trusted individual contributor.
 order: 3
 competencies:
   technology:

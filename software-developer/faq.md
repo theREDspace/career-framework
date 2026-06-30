@@ -55,3 +55,28 @@ Growth often happens in the "spaces between." Actively participate in pairing se
 ## If the ladder suggests I should require "limited feedback", does that mean I should stop asking questions?
 
 Not at all. "Limited feedback" applies to the day-to-day, mundane tasks you’ve we expect you to handle with high autonomy. However, as you stretch into impactful, higher-risk work, seeking feedback is a sign of maturity. We want you to use senior developers as a sounding board for complex logic to ensure we’re building things right the first time.
+
+## How are decisions about promotions made?
+
+Growth is based on Competency-Driven Progression. This means we evaluate how you operate on a daily basis, not just the volume of tasks you close. To progress "up" the ladder, you should be ready to demonstrate that you have fully embedded the baseline fundamentals of that level into your regular behaviour.
+
+## What counts as "one jump"? 
+
+A technology where the engineer's existing foundational patterns transfer with a ramp-up, not a from-scratch relearn. Examples of one jump: one component framework to another (React → Svelte/Vue), one cloud provider to another (AWS → GCP), one native mobile platform to another. Examples of a real jump (not adjacent): frontend → data engineering, web → embedded, application dev → ML systems. The test isn't "have they used it" — it's "do the patterns they've mastered carry, such that we'd trust them to lead, not just contribute."
+
+## Does the technology someone works in affect their level?
+No — not the technology's market value, anyway. The ladder measures the engineer: their capability, the scope they operate at, and the impact they have. It does not measure how fashionable, scarce, or strategically central their stack is. Two things follow:
+
+We don't lower a level because the stack is legacy, niche, or off-strategy. The engineer rarely chooses the assignment, we do. Docking their level for a staffing decision punishes the people doing the maintenance the business still depends on, and teaches everyone to flee that work the moment they can.
+
+We don't raise a level because the stack is hot or rare. Skill scarcity and strategic value are real — but they're levers for compensation, retention, and staffing, not for level. Conflating them inflates titles and corrodes the ladder's meaning.
+
+**What does matter, in any stack**: whether the engineer demonstrates the behaviors of the level. Deep expertise in a current stack is a current-level signal. The ability to evaluate, predict, and lead beyond it is a next-level signal and that holds whether the stack is on the path to legacy or the newest thing in the building.
+
+## Why did "SSD3" become "Staff Developer"?
+
+Simple answer, to stop the level from reading as "the next rung on a ladder". SSD1 to SSD2 is already a real shift, not an automatic progression, and the move to Staff is a larger one still. The name "Staff Developer" carries no implied "+1," so it stops framing the level as something you age into and starts framing it as something you cross into. But things are rarely simple...
+
+This is a different kind of role, not a bigger version of the same one. A Staff Developer is not "a really senior lead dev." The scope is wider, the impact is different in kind, and a meaningful part of the job is no longer development in the hands-on sense. They set technical standards and direction for the broader staff, translate technical reality into business strategy, sponsor the growth of other senior engineers, and are trusted to lead almost any project that comes through the door. Measuring that against "writes excellent code and leads a project" misses most of what the level actually is. The expectation changes, so the title should say so.
+
+This also aligns us with how the industry frames these people. "Staff" is the widely understood signal for an individual contributor operating past the senior level, with company-wide rather than team or project scope. Using the common name makes the expectation legible both inside REDspace and to anyone who knows the broader market: this person is operating at the next level and has proven they can work there, not waiting in line for a number to tick up.
