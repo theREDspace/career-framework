@@ -22,11 +22,30 @@ The IC track is organized into three tiers across seven levels:
 
 > **SSD1 and SSD2 are recognized as terminal levels.** Engineers who operate at a high bar within these levels are not expected to pursue further promotion to remain at the company.
 
+For the QA and QE teams, we have slightly different tiering and retain the Lead role:
+
+| Code | Title | Theme |
+|---|---|---|
+| QA1 | QA Specialist | Adopts |
+| QA2 | QA Specialist | Specializes |
+| SQA1 | Senior QA Specialist | Evangelizes |
+| SQA2 | Senior QA Specialist | Masters |
+| QAL | QA Team Lead | Coordinates |
+
+| Code | Title | Theme |
+|---|---|---|
+| QE1 | QE Specialist | Specializes |
+| QE2 | QE Specialist | Adjusts |
+| SQE1 | Senior QE Specialist | Masters |
+| SQE2 | Senior QE Specialist | Creates |
+
+> **QAL and SQE2 are the current terminal levels of the Quality Assurance department.**
+
 ---
 
 ## Competency Areas
 
-Every level is assessed across six equally-weighted competency areas:
+Every level is assessed across six equally-weighted competency areas, which apply to the entire Technology organization here at REDspace:
 
 - **Technology** — Technical knowledge and how it's applied
 - **Solution** — Problem-solving, design, and delivery
@@ -49,6 +68,7 @@ See [`faq.md`](./software-developer/faq.md) for answers to common questions abou
 
 ## Files
 
+Development
 ```
 sd1.md          Software Developer (SD1)
 sd2.md          Software Developer (SD2)
@@ -57,6 +77,23 @@ ssd1.md         Senior Software Developer (SSD1)
 ssd2.md         Senior Software Developer (SSD2)
 ssd3.md         Senior Software Developer (SSD3)
 principal.md    Principal Software Developer
+faq.md          Frequently Asked Questions
+```
+Quality Assurance
+```
+qa1.md          QA Specialist (QA1)
+qa2.md          QA Specialist (QA2)
+sqa1.md         Senior QA Specialist (SQA1)
+sqa2.md         Senior QA Specialist (SQA2)
+ql1.md          QA Team Lead (QAL)
+faq.md          Frequently Asked Questions
+```
+Quality Engineering
+```
+qe1.md          QE Specialist (QE1)
+qe2.md          QE Specialist (QE2)
+sqe1.md         Senior QE Specialist (SQE1)
+sqe2.md         Senior QE Specialist (SQE2)
 faq.md          Frequently Asked Questions
 ```
 
