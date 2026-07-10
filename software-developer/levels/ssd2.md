@@ -4,6 +4,7 @@ position: Senior Software Developer
 tier: ssd
 theme: Grows
 description: Expanding impact across teams and systems
+leadership_scope: Proven to lead a project in their primary technology (or one of their primary technologies), with the trust that they could also take on a project leadership role "one jump away". They may not always be the default lead, but the company is comfortable placing them there.
 order: 4
 competencies:
   technology:

@@ -1,9 +1,10 @@
 ---
-code: SSD3
-position: Senior Software Developer
-tier: ssd
+code: Staff
+position: Staff Software Developer
+tier: staff
 theme: Architects
 description: Architecting solutions and shaping culture
+leadership_scope: A proven leader who can lead almost any project that company takes on. Masters of not just the SDLC, but client communication, mentorship, and rapid ramp-up on unfamiliar tech.
 order: 5
 competencies:
   technology:
