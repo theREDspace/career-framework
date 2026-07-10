@@ -1,6 +1,6 @@
 ---
 code: Staff
-position: Staff Developer
+position: Staff Software Developer
 tier: staff
 theme: Architects
 description: Architecting solutions and shaping culture
