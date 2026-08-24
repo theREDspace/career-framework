@@ -14,7 +14,7 @@ competencies:
       - Understands and makes well-reasoned decisions regarding technologies and frameworks that have not yet been adopted by the company
       - Evaluates new tech (e.g., AI integration, new languages) and brings proven, researched alternatives to the leadership team
       - Expertise is sought out specifically for high-risk problems and evaluating significant shifts in technical direction
-      - Acts as an go-to expert for their primary tech stack. They are the final escalation point for the most complex, "impossible" bugs in that domain.
+      - Acts as a go-to expert for their primary tech stack. They are the final escalation point for the most complex, "impossible" bugs in that domain.
       - Deeply understands the internal workings of their platform (memory management, rendering engines, store submission guidelines) and ensures the company avoids "toxic" technical debt unique to that stack.
       - Evaluates and optimizes the impact of AI tools on the development lifecycle. Identifies domains where AI implementation poses high risk (e.g., core security primitives or complex distributed locking) and establishes guardrails to maintain engineering rigor.
   solution:
