@@ -102,3 +102,26 @@ Simple answer, to stop the level from reading as "the next rung on a ladder". SS
 This is a different kind of role, not a bigger version of the same one. A Staff Software Developer is not "a really senior lead dev." The scope is wider, the impact is different in kind, and a meaningful part of the job is no longer development in the hands-on sense. They set technical standards and direction for the broader staff, translate technical reality into business strategy, sponsor the growth of other senior engineers, and are trusted to lead almost any project that comes through the door. Measuring that against "writes excellent code and leads a project" misses most of what the level actually is. The expectation changes, so the title should say so.
 
 This also aligns us with how the industry frames these people. "Staff" is the widely understood signal for an individual contributor operating past the senior level, with company-wide rather than team or project scope. Using the common name makes the expectation legible both inside REDspace and to anyone who knows the broader market: this person is operating at the next level and has proven they can work there, not waiting in line for a number to tick up.
+
+## "That opportunity isn't there for me on my project." Now what?
+
+Usually, it is there. It's just not labeled and handed to you; you have to go find it.
+
+Be intentional before you decide the opportunity isn't there. A question answered in a Slack channel outside your project can be the start of mentoring. A moment of curiosity about the client's roadmap can be the start of becoming a strategic partner. These rarely announce themselves as opportunities while they're happening; they just look like small, ordinary things. Being intentional means noticing them as more than that, even if you wouldn't have called it an opportunity in the moment.
+
+Once you find it, two things matter equally: doing it, and having a record that you did it. This is what the Feedback Framework means by "own your own growth." Don't wait for review time to reconstruct it from memory; note it when it happens. A short line logged in the moment is worth more than a story rebuilt six months later, to you and to whoever's evaluating you.
+
+The one thing that will hurt you here: raising your hand and then not following through. That's worse than never raising it. It tells people your stretch asks aren't reliable. Pick one thing you can actually finish, and finish it.
+
+## I just got promoted. When should I start pushing for the next level?
+
+Congratulations. Your next step is to focus on doing your new job well.
+That's not a delay tactic, it's actually the fastest path there. The ladder isn't a set of separate skills you collect level by level. Each level's competencies are what the previous level's competencies look like once they've had time to become second nature. SD3's Empowers, practiced consistently, is what eventually becomes SSD1's Coaches. SD3's Master, applied across enough situations, is what becomes SSD1's Lifecycle Master. You're not adding the next level on top of this one, you're growing into it from where you already stand.
+
+So the best thing you can do right now is settle into the level you just reached and let it become fully yours. If you reach for the next level's behaviors before that's happened, it tends to come across as just that: reaching. Not because anyone doubts your ambition, but because there's no substitute for the real thing underneath it.
+
+Here's the encouraging part: when it's genuinely time, you likely won't have to force it. You'll notice yourself explaining "why" instead of just "what," or noticing a pattern across projects instead of just your own ticket, and it'll feel automatic rather than like a decision you made this week. That's what it looks like when the current level has settled in. It's a byproduct of doing the job well, not something you can manufacture by announcing you're working toward it.
+
+That's also what the ranges in "How often can I expect a promotion" are really pointing at. They're less a countdown and more a rough sense of how long that settling-in tends to take. There's no need to rush it.
+
+This also isn't in conflict with "that opportunity isn't there for me on my project," even though they can sound like they're pulling in different directions. That entry is about finding visibility for capability you've already built. This one is about giving yourself the time to build it in the first place.
