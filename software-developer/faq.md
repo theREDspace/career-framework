@@ -95,6 +95,14 @@ We don't raise a level because the stack is hot or rare. Skill scarcity and stra
 
 **What does matter, in any stack**: whether the engineer demonstrates the behaviors of the level. Deep expertise in a current stack is a current-level signal. The ability to evaluate, predict, and lead beyond it is a next-level signal and that holds whether the stack is on the path to legacy or the newest thing in the building.
 
+## I work on a legacy stack. Doesn't SSD2 require me to work with new technology?
+
+Not the way it sounds. SSD2's Technology competency (Evangelist) asks you to evaluate technologies the company hasn't adopted and carry a researched case to leadership. Read fast, that sounds like you need to already be working in something new. You don't. Evangelist describes an act of evaluation, not a daily working language.
+
+If you've spent years on a platform other people consider legacy, you're often the best-placed person in the building to say what should replace it and why. You know where it actually hurts, what the last few workarounds cost, and nobody has to explain the constraints to you. Researching the change that platform genuinely needs, building the trade-off case, and putting it in front of the people who decide, satisfies that bullet without writing a line of the new thing. The level is asking whether your judgment shapes the company's technical direction, not what you typed today.
+
+And the judgment transfers. Sizing what a change will cost, weighing debt against delivery, telling a real improvement from a fashionable one: those are the same moves whether the thing on the table is three months old or fifteen years old.
+
 ## Why did "SSD3" become "Staff Software Developer"?
 
 Simple answer, to stop the level from reading as "the next rung on a ladder". SSD1 to SSD2 is already a real shift, not an automatic progression, and the move to Staff is a larger one still. The name "Staff Software Developer" carries no implied "+1," so it stops framing the level as something you age into and starts framing it as something you cross into. But things are rarely simple...
